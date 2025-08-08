@@ -14,9 +14,9 @@ Shopify es una plataforma de servicios de páginas web para crear tu propio nego
 
 <h2>Que buscamos encontrar?</h2>
 
-TARGET: BUSCAMOS GARATANZAR LA RECOMPRA DE NUESTROS CLIENTES ESTRELLAS.
+TARGET: BUSCAMOS GARANTIZAR LA RECOMPRA DE NUESTROS CLIENTES ESTRELLAS 313.
 
-Porque son clientes activos que desembolsan altas cantidades y aumentar su frecuencia de compra aportaría significativamente  a la rentabilidad
+Porque son clientes activos que desembolsan altos montos, y aumentar su frecuencia de compra aportaría significativamente  a la rentabilidad.
 
-<h2>Herramientas tecnologicas que usamos en el desarrollo</h2>
+<h2>Herramientas tecnológicas y metodológicas que usamos en el desarrollo</h2>
 
