@@ -23,7 +23,7 @@ Porque son clientes activos que desembolsan altos montos, y aumentar su frecuenc
 Python: componente de desarrollo utilizado para limpiar, relacionar, crear modelos estadísticos de información, tambien es posible crear gráficos estadísticos y utilizar tecnología IA con machine learning para poder llegar al cliente con un información muy detallada a nivel visual y empresarial con el fin de ellos poder realizar de manera rapida y eficaz una excelente toma de desiciones para su negocio.
 Excel: fuentes de origen en donde se encuentra la informacion.
 RFM: metodologia basada en segmentacion de clientes.
-
+<p align="center"><img align="center" width="280" src="/img/Python.jpg"/></p>
 
 <h2>Solución del proyecto</h2>
 
