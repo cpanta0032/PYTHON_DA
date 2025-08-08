@@ -7,7 +7,7 @@
 
 <h2>Antecendente</h2>
 
-Shopify es una plataforma de servicios de paginas web para crear tu propio negocio, el cual se va a revisar desde una base de datos distribuida en excel la informacion de las ventas de todos los clientes desde el ano 2016 hasta el 2018.
+Shopify es una plataforma de servicios de páginas web para crear tu propio negocio, el cual se va a revisar desde una base de datos distribuida en excel con la informacion de las ventas de todos los clientes desde el ano 2016 hasta el 2018.
 
 <h3>Detalles de los beneficios</h3>
 <img width="1650" height="682" alt="image" src="https://github.com/user-attachments/assets/252e4e75-ba88-4d99-91ef-a66bf3b73c8b" />
