@@ -21,7 +21,9 @@ Porque son clientes activos que desembolsan altos montos, y aumentar su frecuenc
 <h2>Herramientas tecnológicas y metodológicas que usamos en el desarrollo</h2>
 
 Python: componente de desarrollo utilizado para limpiar, relacionar, crear modelos estadísticos de información, tambien es posible crear gráficos estadísticos y utilizar tecnología IA con machine learning para poder llegar al cliente con un información muy detallada a nivel visual y empresarial con el fin de ellos poder realizar de manera rapida y eficaz una excelente toma de desiciones para su negocio.
+
 Excel: fuentes de origen en donde se encuentra la informacion.
+
 RFM: metodologia basada en segmentacion de clientes.
 <p align="center"><img align="center" width="280" src="/img/Python.jpg"/></p>
 
@@ -29,7 +31,9 @@ RFM: metodologia basada en segmentacion de clientes.
 
 Se concluyo realizar promociones a los productos mas comprados unificandolos con los productos menos comprados de la muestra y realizar dichas promociones cada semana hasta llegar a la semana cinco. Esto con la finalidad de captar mas clientes y poder obtener mas ganacias.
 Para mas detalles abrir los archivos del repositorio, los cuales son:
+
 1.- Presentación Shopify - Grupo 2.pdf
+
 2.- Presentación Shopify - Grupo 2.pptx
 
 <p align="center"><img align="center" width="280" src="/img/FondoGrupo.jpeg"/></p>
